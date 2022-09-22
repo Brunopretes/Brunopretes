@@ -1,4 +1,4 @@
-## Ola, sejam todos bem vindo!
+## Ola, sejam todos bem vindos!
 
 - 🤖Sou o @Brunopretes.
 - 💻 Estou interessado em aprender a programar / me tornar um programador.
