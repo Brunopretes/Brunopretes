@@ -11,19 +11,8 @@
   
  
   
- 
-  
-  ## Me aventurando em...
+## Me aventurando em...
 
 <img align="center" alt="Junior-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-
-
-
 ##
-<div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunopretes&show_icons=true&theme=midnight-purple)
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunopretes&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
