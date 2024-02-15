@@ -5,7 +5,7 @@
 - :computer: Atualmente estou cursando Engenharia de software no 1º semestre e Técnologia da informação 2º semestre
 - :thought_balloon: aprendendo sobre cloud AWS
 - :dart: Estudando inglês
-- 
+  
 
 ##  Contatos:
 
