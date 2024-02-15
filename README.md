@@ -1,10 +1,10 @@
 ## Ola, sejam todos bem vindos!
 
-- 🤖Sou o @Brunopretes.
-- 💻 Estou interessado em aprender a programar / me tornar um programador.
-- 😎 Atualmente estou aprendendo CSS, HTML, JavaScript!
-- 😢 Ainda não estou em nenhum projeto, caso queira um voluntário, estou aqui!!!
-- :thought_balloon:
+- 😎Sou o @Brunopretes.
+- 💻 Trabalho com monitoramento
+- :computer: Atualmente estou cursando Engenharia de software no 1º semestre e Técnologia da informação 2º semestre
+- :thought_balloon: aprendendo sobre cloud AWS
+- :dart: Estudando inglês
 - 
 
 ##  Contatos:
