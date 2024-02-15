@@ -4,6 +4,8 @@
 - 💻 Estou interessado em aprender a programar / me tornar um programador.
 - 😎 Atualmente estou aprendendo CSS, HTML, JavaScript!
 - 😢 Ainda não estou em nenhum projeto, caso queira um voluntário, estou aqui!!!
+- :thought_balloon:
+- 
 
 ##  Contatos:
 
