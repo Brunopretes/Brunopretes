@@ -1,10 +1,10 @@
 ## Ola, sejam todos bem vindos!
 
-- 😎Sou o @Brunopretes.
-- 💻 Trabalho com monitoramento
-- :computer: Atualmente estou cursando Engenharia de software no 1º semestre e Técnologia da informação 2º semestre
-- :thought_balloon: aprendendo sobre cloud AWS
-- :dart: Estudando inglês
+- 😎 Sou o @Brunopretes.
+- 💻 Trabalho com monitoramento.
+- 💻 Cursando Engenharia de software.
+- 💭 Cloud AWS.
+- 🗣 Estudando inglês.
   
 
 ##  Contatos:
