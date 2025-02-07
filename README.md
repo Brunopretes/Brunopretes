@@ -3,9 +3,9 @@
 - 😎 Sou o @Brunopretes.
 - 💻 Trabalho com monitoramento.
 - 💻 Cursando Engenharia de software.
-- 💻 Estudando Java.
+- 💻 Estudando Python.
 - 💭 Cloud AWS.
-- 🗣 Estudando inglês.
+
   
 
 ##  Contatos:
